@@ -1,0 +1,19 @@
+body {
+  /* width: 100%; */
+  background-color: grey;
+}
+
+.construyendo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Maven Pro", sans-serif;
+  color: #302d91;
+  /* color: #00ecff; */
+}
+
+.logo_construyendo {
+  width: 50%;
+}
